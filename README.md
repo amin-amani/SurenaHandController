@@ -2,5 +2,6 @@
 
 
 contributors:
-A.Amani\
+A.Amani
+
 HamiiKalhor
